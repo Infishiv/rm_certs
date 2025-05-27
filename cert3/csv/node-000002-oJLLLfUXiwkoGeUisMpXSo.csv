@@ -1,0 +1,7 @@
+key,type,encoding,value
+rmaker_creds,namespace,,
+node_id,data,binary,oJLLLfUXiwkoGeUisMpXSo
+mqtt_host,data,binary,a1hu6y653htmhm-ats.iot.us-east-1.amazonaws.com
+client_cert,file,binary,/Users/esp/admin_cli/esp-rainmaker-admin-cli 2/2025-05-27/Mfg-000001/node_details/node-000002-oJLLLfUXiwkoGeUisMpXSo/node.crt
+client_key,file,binary,/Users/esp/admin_cli/esp-rainmaker-admin-cli 2/2025-05-27/Mfg-000001/node_details/node-000002-oJLLLfUXiwkoGeUisMpXSo/node.key
+random,data,hex2bin,341196b968f968604af0a296e98b743d7b97716e7f0a823f9463b739f0f01d5cc0288df3800b4c2573644447e3421fb5ed15f5ccc5657c5af4a3bf66ba2dd8e2
